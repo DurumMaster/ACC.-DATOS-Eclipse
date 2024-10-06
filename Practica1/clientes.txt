@@ -1,0 +1,2 @@
+Romeo, Santos, bachatita@rosas.com, Avda. Romeo Santos, 45, 22/09/2003, Murcia, Murcia
+Pepe, Trujillo, pepito@gmail.com, Calle de pepe, 34, 02/04/2019, Madrid, Alcobendas
