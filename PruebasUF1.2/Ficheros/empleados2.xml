@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<empleados>
+    <empleado>
+        <id>1</id>
+        <nombre>Axel</nombre>
+        <apellido>León</apellido>
+        <email>AxelLeon@gmail.com</email>
+    </empleado>
+    <empleado>
+        <id>2</id>
+        <nombre>Carlos</nombre>
+        <apellido>Elvira</apellido>
+        <email>CarlosElvira@gmail.com</email>
+    </empleado>
+</empleados>
