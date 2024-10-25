@@ -42,7 +42,6 @@ public class LeerXMLSCXStream2 {
 		
 		// Establecemos canal al fichero XML y volcamos/deserializamos el
 		// contenido en un objetp de tipo ListaObjetos que podemos después leer
-		
 		FileInputStream fis;
 		try {
 			fis = new FileInputStream("Ficheros/objetos.xml");

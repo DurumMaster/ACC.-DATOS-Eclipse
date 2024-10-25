@@ -35,7 +35,7 @@ public class EscribirXMLSCXStream {
 		xs.alias("ListaObjetos", ListaObjetos.class);
 		xs.alias("Objeto", Objeto.class);
 		
-		// Para que no aparexca el atributo listaObjetos de la clase ListaObjetos
+		// Para que no aparezca el atributo listaObjetos de la clase ListaObjetos
 		// en el XML utilizamos el método addImplicitCollection
 		xs.addImplicitCollection(ListaObjetos.class, "listaObjetos");
 		
