@@ -1,6 +1,8 @@
 package dam.ad.practica9.main;
 
 import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
 
 import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
@@ -17,11 +19,11 @@ import org.w3c.dom.*;
 import dam.ad.practica9.javabeans.Direccion;
 import dam.ad.practica9.javabeans.Empleado;
 
-public class Main {
+public class EscribirXMLDOMLista {
 
 	public static void main(String[] args) {
 
-		ArrayList<Empleado> empleados = crearListaEmpleados();
+		List<Empleado> empleados = crearListaEmpleados();
 
 		DocumentBuilderFactory factory = DocumentBuilderFactory.newInstance();
 
@@ -101,14 +103,13 @@ public class Main {
 
 	}
 
-	private static ArrayList<Empleado> crearListaEmpleados() {
-		ArrayList<Empleado> empleados = new ArrayList<Empleado>();
-
-		empleados.add(new Empleado(1, "Juan", "Pérez", new Direccion("Calle 1", "Madrid", "Madrid", 28001)));
-		empleados.add(new Empleado(2, "Ana", "García", new Direccion("Avenida 2", "Barcelona", "Cataluña", 28108)));
-		empleados.add(new Empleado(3, "Luis", "Martínez", new Direccion("Calle 3", "Sevilla", "Andalucía", 41001)));
-		empleados.add(new Empleado(4, "María", "Rodríguez", new Direccion("Plaza Mayor", "Valencia", "Valencia", 46001)));
-		empleados.add(new Empleado(5, "Carlos", "López", new Direccion("Gran Vía", "Bilbao", "País Vasco", 48001)));
+	private static List<Empleado> crearListaEmpleados() {
+		List<Empleado> empleados = (List<Empleado>) Arrays.asList(
+				new Empleado(1, "Juan", "Pérez", new Direccion("Calle 1", "Madrid", "Madrid", 28001)),
+				new Empleado(2, "Ana", "García", new Direccion("Avenida 2", "Barcelona", "Cataluña", 28108)),
+				new Empleado(3, "Luis", "Martínez", new Direccion("Calle 3", "Sevilla", "Andalucía", 41001)),
+				new Empleado(4, "María", "Rodríguez", new Direccion("Plaza Mayor", "Valencia", "Valencia", 46001)),
+				new Empleado(5, "Carlos", "López", new Direccion("Gran Vía", "Bilbao", "País Vasco", 48001)));
 
 		return empleados;
 	}
