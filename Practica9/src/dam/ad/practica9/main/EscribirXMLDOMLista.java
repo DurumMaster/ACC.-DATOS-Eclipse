@@ -1,6 +1,5 @@
 package dam.ad.practica9.main;
 
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
