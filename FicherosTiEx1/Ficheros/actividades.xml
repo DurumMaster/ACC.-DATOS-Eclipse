@@ -1,0 +1,14 @@
+<Actividades>
+  <actividad>
+    <id>1</id>
+    <nombre>Tarantula</nombre>
+    <zona>Este</zona>
+    <minutos>12.0</minutos>
+  </actividad>
+  <actividad>
+    <id>2</id>
+    <nombre>Petete</nombre>
+    <zona>123</zona>
+    <minutos>123.0</minutos>
+  </actividad>
+</Actividades>

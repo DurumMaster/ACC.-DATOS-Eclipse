@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Eventos>
+    <evento>
+        <id>1</id>
+        <nombreEvento>Summer Fest</nombreEvento>
+        <fecha>12/12/12</fecha>
+        <lugar>Logroño</lugar>
+        <organizador>Manolo</organizador>
+    </evento>
+    <evento>
+        <id>2</id>
+        <nombreEvento>Zevra</nombreEvento>
+        <fecha>11/11/11</fecha>
+        <lugar>Castellón</lugar>
+        <organizador>Tobias</organizador>
+    </evento>
+    <evento>
+        <id>3</id>
+        <nombreEvento>Jazz Fest</nombreEvento>
+        <fecha>02/02/02</fecha>
+        <lugar>NY</lugar>
+        <organizador>Fred</organizador>
+    </evento>
+    <evento>
+        <id>4</id>
+        <nombreEvento>Patatas</nombreEvento>
+        <fecha>03/03/03</fecha>
+        <lugar>Aranjuez</lugar>
+        <organizador>Pedro</organizador>
+    </evento>
+    <evento>
+        <id>5</id>
+        <nombreEvento>San Fermín</nombreEvento>
+        <fecha>30/05/2023</fecha>
+        <lugar>Pamplona</lugar>
+        <organizador>Julian</organizador>
+    </evento>
+</Eventos>

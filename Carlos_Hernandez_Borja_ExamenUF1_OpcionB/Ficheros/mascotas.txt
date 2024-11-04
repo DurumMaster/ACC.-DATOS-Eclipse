@@ -1,0 +1,106 @@
+
+ID: 1
+Nombre: Buddy
+Raza: Golden Retriever
+Edad: 3
+Propietario:
+ Nombre: Carlos
+ Teléfono: 123-456-789
+ID: 2
+Nombre: Luna
+Raza: Bulldog
+Edad: 5
+Propietario:
+ Nombre: María
+ Teléfono: 987-654-321
+ID: 3
+Nombre: Max
+Raza: Pastor Alemán
+Edad: 2
+Propietario:
+ Nombre: Ana
+ Teléfono: 456-789-123
+ID: 4
+Nombre: Bella
+Raza: Beagle
+Edad: 4
+Propietario:
+ Nombre: Javier
+ Teléfono: 321-654-987
+ID: 5
+Nombre: Rocky
+Raza: Husky
+Edad: 1
+Propietario:
+ Nombre: Sofía
+ Teléfono: 654-321-987
+ID: 1
+Nombre: Buddy
+Raza: Golden Retriever
+Edad: 3
+Propietario:
+ Nombre: Carlos
+ Teléfono: 123-456-789
+ID: 2
+Nombre: Luna
+Raza: Bulldog
+Edad: 5
+Propietario:
+ Nombre: María
+ Teléfono: 987-654-321
+ID: 3
+Nombre: Max
+Raza: Pastor Alemán
+Edad: 2
+Propietario:
+ Nombre: Ana
+ Teléfono: 456-789-123
+ID: 4
+Nombre: Bella
+Raza: Beagle
+Edad: 4
+Propietario:
+ Nombre: Javier
+ Teléfono: 321-654-987
+ID: 5
+Nombre: Rocky
+Raza: Husky
+Edad: 1
+Propietario:
+ Nombre: Sofía
+ Teléfono: 654-321-987
+ID: 1
+Nombre: Buddy
+Raza: Golden Retriever
+Edad: 3 años
+Propietario:
+ Nombre: Carlos
+ Teléfono: 123-456-789
+ID: 2
+Nombre: Luna
+Raza: Bulldog
+Edad: 5 años
+Propietario:
+ Nombre: María
+ Teléfono: 987-654-321
+ID: 3
+Nombre: Max
+Raza: Pastor Alemán
+Edad: 2 años
+Propietario:
+ Nombre: Ana
+ Teléfono: 456-789-123
+ID: 4
+Nombre: Bella
+Raza: Beagle
+Edad: 4 años
+Propietario:
+ Nombre: Javier
+ Teléfono: 321-654-987
+ID: 5
+Nombre: Rocky
+Raza: Husky
+Edad: 1 año
+Propietario:
+ Nombre: Sofía
+ Teléfono: 654-321-987
